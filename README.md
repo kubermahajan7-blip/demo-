@@ -1,2 +1,2 @@
 # demo-
-FOR PRACTICAL
+FOR PRACTISE
